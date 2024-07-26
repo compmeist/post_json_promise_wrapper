@@ -1,6 +1,6 @@
 ## postJSONData
 
-### Wrapper Promise for fetch() that returns resolve and reject.  
+### Wrapper for fetch() that returns resolve and reject.  
 #### (for modern browsers only).
 
 #### Example Call:
